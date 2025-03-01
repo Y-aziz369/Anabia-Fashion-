@@ -1,1 +1,11 @@
-
+fashion-website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    ├── kurta1.jpg
+    ├── kurta2.jpg
+    ├── abaya1.jpg
+    ├── abaya2.jpg
+    └── logo.png
